@@ -1,0 +1,4 @@
+map_name: FeudalJapan2
+games:
+- {game_name: Feudal Japan 2, file_name: FeudalJapan2.xml}
+version: 0
